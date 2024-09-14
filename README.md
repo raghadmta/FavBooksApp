@@ -44,7 +44,7 @@ Detailed view of a selected book with options to edit.
 </p>
 
 ### Delete A Book Screen
-Delte a book preview.
+Confirmation dialog before deleting a book,
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1f53d6c6-ccce-4ce0-af1b-a4ea8b5895b1" alt="Book List Screen" width="150" />
     <img src="https://github.com/user-attachments/assets/f2e148e4-b1c2-411e-9719-ec1e8e10c9fe" alt="Book List Screen" width="150" />   
